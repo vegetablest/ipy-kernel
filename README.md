@@ -1,5 +1,7 @@
 # TableGPT Ipython Kernel
 
+**Read this in other languages: [中文](README-zh.md).**
+
 Docker image used to spawn code execution environments for the TableGPT project. It is based on the `elyra/kernel-py` image, with additional data-analyze packages and Chinese font support installed.
 
 ## Quick Start
